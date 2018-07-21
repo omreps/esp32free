@@ -10,6 +10,6 @@ www.esp32free.com
 ![alt text](https://github.com/omreps/esp32free/blob/master/Readme_files/Screenshot_API1.png)
 
 Use this ESP32FREE distributive to flash your ESP32 with the ESP32FREE firmware:
-- [download zip](https://github.com/omreps/esp32free/archive/master.zip) and unzip it
+- [download esp32 firmware ZIP](https://github.com/omreps/esp32free/archive/master.zip) and unzip it
 - follow step-by-step instructions in Readme.html and flash your esp32 with the ESP32FREE firmware
 - set up your device through the ESP32FREE web-interface
