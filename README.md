@@ -4,10 +4,10 @@ ESP32FREE is a web-server firmware for prototyping ESP32-based devices in minute
 
 www.esp32free.com
 
-![alt text](https://github.com/omreps/esp32free/blob/master/Readme_files/Screenshot_Settings2.png)
-![alt text](https://github.com/omreps/esp32free/blob/master/Readme_files/Screenshot_WiFi2.png)
-![alt text](https://github.com/omreps/esp32free/blob/master/Readme_files/Screenshot_Home2.png)
-![alt text](https://github.com/omreps/esp32free/blob/master/Readme_files/Screenshot_API1.png)
+![alt text](https://github.com/omreps/esp32free/blob/master/Readme_files/ESP32_FREE_Firmware.png)
+![alt text](https://github.com/omreps/esp32free/blob/master/Readme_files/ESP32_FREE_wifi.png)
+![alt text](https://github.com/omreps/esp32free/blob/master/Readme_files/ESP32_FREE_dashboard.png)
+![alt text](https://github.com/omreps/esp32free/blob/master/Readme_files/ESP32_FREE_REST_API.png)
 
 Use this ESP32FREE distributive to flash your ESP32 with the ESP32FREE firmware:
 - [download esp32 firmware ZIP](https://github.com/omreps/esp32free/archive/master.zip) and unzip it
