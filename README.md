@@ -21,8 +21,10 @@ Use dashboard for monitoring or debug:
 
 Download this ESP32FREE distributive and flash your ESP32 with the ESP32FREE firmware:
 - [download esp32 firmware ZIP](https://github.com/omreps/esp32free/archive/master.zip) and unzip it
-- follow step-by-step instructions in Readme.html and flash your esp32 with the ESP32FREE firmware
+- follow step-by-step instructions in [Readme.html](http://htmlpreview.github.io/?https://github.com/omreps/esp32free/blob/master/Readme.html) and flash your esp32 with the ESP32FREE firmware
 - set up your device through the ESP32FREE web-interface
+
+![alt text](https://github.com/omreps/esp32free/blob/master/Readme_files/ESP32-to-Computer1.png)
 
 
 # API
