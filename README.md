@@ -1,6 +1,6 @@
 # ESP32FREE distributive
 
-ESP32FREE is a web-server firmware for prototyping ESP32-based devices via the web-interface:
+ESP32FREE is a web-server firmware for prototyping ESP32-based devices:
 
 www.esp32free.com
 
