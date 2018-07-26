@@ -16,7 +16,7 @@ Use dashboard for monitoring or debug:
 
 ![alt text](https://github.com/omreps/esp32free/blob/master/Readme_files/ESP32_FREE_dashboard.png)
 
-How to flash the ESP32FREE Firmware:
+# How to flash the ESP32FREE Firmware:
 
 Download this ESP32FREE distributive and flash your ESP32 with the ESP32FREE firmware:
 - [download esp32 firmware ZIP](https://github.com/omreps/esp32free/archive/master.zip) and unzip it
@@ -24,9 +24,9 @@ Download this ESP32FREE distributive and flash your ESP32 with the ESP32FREE fir
 - set up your device through the ESP32FREE web-interface
 
 
-API
-Create your own web-pages and upload them on your esp32. 
-Use HTTP GET and get live sensor values on your page.
+# API
+Create your own web-pages and upload them on your esp32. Use HTTP GET and get live sensor values on your page.
+
 GET sensors API is selfdocumented:
 
 ![alt text](https://github.com/omreps/esp32free/blob/master/Readme_files/ESP32_FREE_REST_API.png)
