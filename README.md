@@ -23,7 +23,11 @@ Download this ESP32FREE distributive and flash your ESP32 with the ESP32FREE fir
 - follow step-by-step instructions in Readme.html and flash your esp32 with the ESP32FREE firmware
 - set up your device through the ESP32FREE web-interface
 
-Create your own web-pages and upload them on your esp32. Use HTTP GET and load live sensor values on your page:
+
+API
+Create your own web-pages and upload them on your esp32. 
+Use HTTP GET and get live sensor values on your page.
+GET sensors API is selfdocumented:
 
 ![alt text](https://github.com/omreps/esp32free/blob/master/Readme_files/ESP32_FREE_REST_API.png)
 
