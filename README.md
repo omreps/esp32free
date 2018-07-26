@@ -12,3 +12,8 @@ Use this ESP32FREE distributive to flash your ESP32 with the ESP32FREE firmware:
 - [download esp32 firmware ZIP](https://github.com/omreps/esp32free/archive/master.zip) and unzip it
 - follow step-by-step instructions in Readme.html and flash your esp32 with the ESP32FREE firmware
 - set up your device through the ESP32FREE web-interface
+
+Create your own web-pages and upload them on your esp32. Use HTTP GET and load live sensor values on your page:
+
+![alt text](https://github.com/omreps/esp32free/blob/master/Readme_files/ESP32_FREE_REST_API.png)
+
